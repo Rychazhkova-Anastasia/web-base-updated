@@ -2,26 +2,26 @@
 
 exports[`Работа с DOM Автозамена элементов дерева тегов с сохранением вложенной структуры 1`] = `
 <div
-  class="item_1"
+  class="item_3"
 >
   <section
     class="item_2"
   >
     <div
-      class="item_3"
+      class="item_1"
     />
     <div
-      class="item_3"
+      class="item_1"
     />
   </section>
   <section
     class="item_2"
   >
     <div
-      class="item_3"
+      class="item_1"
     />
     <div
-      class="item_3"
+      class="item_1"
     />
   </section>
 </div>
@@ -49,45 +49,45 @@ exports[`Работа с DOM Вставка элементов: 5 последо
 
 exports[`Работа с DOM Рекурсивное построение дерева тегов DIV с вложенностью 3, по 3 ветки в узле 1`] = `
 <div
-  class="item_1"
+  class="item_3"
 >
   <div
     class="item_2"
   >
     <div
-      class="item_3"
+      class="item_1"
     />
     <div
-      class="item_3"
+      class="item_1"
     />
     <div
-      class="item_3"
-    />
-  </div>
-  <div
-    class="item_2"
-  >
-    <div
-      class="item_3"
-    />
-    <div
-      class="item_3"
-    />
-    <div
-      class="item_3"
+      class="item_1"
     />
   </div>
   <div
     class="item_2"
   >
     <div
-      class="item_3"
+      class="item_1"
     />
     <div
-      class="item_3"
+      class="item_1"
     />
     <div
-      class="item_3"
+      class="item_1"
+    />
+  </div>
+  <div
+    class="item_2"
+  >
+    <div
+      class="item_1"
+    />
+    <div
+      class="item_1"
+    />
+    <div
+      class="item_1"
     />
   </div>
 </div>
